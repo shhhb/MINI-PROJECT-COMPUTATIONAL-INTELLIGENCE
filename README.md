@@ -1,4 +1,5 @@
 Intelligent Mobile Robot Navigation Using Computational Intelligence Techniques
+
 This repository contains the source code and simulation files for the autonomous mobile robot navigation mini-project. The project explores the implementation of Fuzzy Logic and ANFIS (Adaptive Neuro-Fuzzy Inference System) control techniques to navigate a robot through complex environments.
 
 Project Files
